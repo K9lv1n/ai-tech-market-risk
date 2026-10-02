@@ -1,0 +1,9 @@
+{
+  "model_name": "LogisticRegression",
+  "model_family": "Logistic Regression",
+  "ticker_universe": ["NVDA", "AMD", "MSFT", "GOOGL", "META"],
+  "validation_roc_auc": 0.686896,
+  "validation_pr_auc": 0.675456,
+  "horizon_trading_days": 5,
+  "move_threshold": 0.03
+}
